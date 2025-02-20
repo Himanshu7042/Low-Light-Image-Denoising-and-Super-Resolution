@@ -13,4 +13,4 @@ This project implements a deep learning model using a variant of ESRGAN (Enhance
 The model is trained on a dataset of low-light images with corresponding high-quality ground truth images. It can be adapted to various datasets depending on the use case.  
 
 ## Dependencies  
-Ensure you have the following libraries installed before running the notebook: 
+Ensure you have the necessary libraries installed before running the notebook 
